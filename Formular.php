@@ -114,7 +114,7 @@
 				<li><div class="Rahmen">
 						<div class="datum">11.2.2015</div>
 						<div class="titel">
-							<a href='#'>NBA:Luzern wird Meister</a>
+							<a href='#'>NBA: Luzern wird Meister</a>
 						</div>
 					</div></li>
 				<li><div class="Rahmen">
@@ -143,7 +143,7 @@
 				<form class="form">
 
 					<p>Anrede:</p>
-					<p>
+					<p class="Geschlecht">
 						<br> <input checked="checked" name="Anrede" type="radio"
 							value="Herr" /> Herr <br> <input name="Anrede" type="radio"
 							value="Frau" /> Frau
@@ -153,7 +153,6 @@
 						<br> <input type="text" name="Vorname" id="name" /> <label
 							for="name">Vorname</label>
 					</p>
-
 					<p class="name">
 						<input type="text" name="name" id="name" /> <label for="name">Name</label>
 					</p>

@@ -15,7 +15,7 @@
 	width: 99.2%;
 	height: 50px;
 	float: left;
-	margin-top:47.5%;
+	margin-top: 47.5%;
 	font-family: Montserrat, sans-serif;
 	font-weight: 400;
 	color: #888;
@@ -24,6 +24,7 @@
 	padding-top: 9px;
 	box-shadow: 5px 5px 5px #888888;
 	position: absolute;
+	font-family: Montserrat, sans-serif;
 }
 
 #LatestNews {
@@ -251,6 +252,7 @@ ul li {
 	border: 2px double;
 	color: #999999;
 	border-color: #EEE;
+	font-family: Montserrat, sans-serif;
 }
 
 input, textarea {
@@ -321,12 +323,13 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	padding: 5px;
 	background: #333333;
 	border: 0;
-	position:absolute;
+	position: absolute;
 	font-size: 14px;
 	color: #FFF;
 	transition: 0.5s;
 	margin-top: -10px;
 	font-family: Montserrat, sans-serif;
+	font-size: 14px;
 }
 
 .submit_1 input:hover {
@@ -366,11 +369,11 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	font-size: 14px;
 }
 
-#registrieren{
-	float:left;
-	width:350px;
+#registrieren {
+	float: left;
+	width: 350px;
 	margin: -5px 0 60px 65px;
-	font-size:13;
+	font-size: 13;
 	transition: font 0.3s;
 	transition: width 5s;
 }
@@ -381,4 +384,8 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	color: #2ea7fe;
 	font-size: 16px;
 	transition: font 0.3s;
+}
+
+.Geschlecht {
+	
 }
