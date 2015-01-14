@@ -91,7 +91,9 @@
 				<p class="submit_1">
 						<input type="submit" value="Login" />
 					</p>
-				<a href='Formulare.php'>Noch kein Konto? Jetzt Registrieren!</a>
+				<div id="registrieren">
+					<a href='Formular.php'>Noch kein Konto? Jetzt Registrieren!</a>
+				</div>
 			</div>
 		</div>
 		<div id="news">

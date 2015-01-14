@@ -37,33 +37,21 @@
 			<div id='cssmenu'>
 				<ul>
 					<li><a href='#'>Home</a></li>
-					<li class='active'><a href='#'>Football</a>
+					<li class='active'><a href='football.php'>Fussball</a>
 						<ul>
 							<li><a href='#'>Premiere League</a></li>
 							<ul>
 								<li><a href='#'>Resultate</a></li>
 								<li><a href='#'>Rangliste</a></li>
 							</ul></li>
+						
 					<li><a href='#'>Champions League</a></li>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
 						<li><a href='#'>Rangliste</a></li>
 					</ul>
-					</li>
-					<li><a href='#'>Liga BBVA</a></li>
-					<ul>
-						<li><a href='#'>Resultate</a></li>
-						<li><a href='#'>Rangliste</a></li>
-					</ul>
-					</li>
-					<li><a href='#'>Europa Meisterschaft</a></li>
-					<ul>
-						<li><a href='#'>Resultate</a></li>
-						<li><a href='#'>Rangliste</a></li>
-					</ul>
-					</li>
 				</ul>
-				</li>
+			
 				<li><a href='#'>Unihockey</a>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
@@ -104,7 +92,7 @@
 					<input type="submit" value="Login" />
 				</p>
 				<div id="registrieren">
-					<a href='Formulare.php'>Noch kein Konto? Jetzt Registrieren!</a>
+					<a href='Formular.php'>Noch kein Konto? Jetzt Registrieren!</a>
 				</div>
 			</div>
 		</div>
@@ -177,23 +165,13 @@
 					<li><div class="text">Lorem ipsum dolor sit amet, consetetur
 							sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 							labore et dolore magna aliquyam erat, sed diam voluptua. At vero
-							eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-							gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-							amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-							sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-							aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
-							duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+							eos et accusam ren, no sea
 							takimata sanctus est Lorem ipsum dolor sit amet.</div></li>
 					<li><div class="text">Lorem ipsum dolor sit amet, consetetur
 							sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
 							labore et dolore magna aliquyam erat, sed diam voluptua. At vero
 							eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-							gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-							amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-							sed diam nonumy eirmod tempor invidunt ut labore et dolore magna
-							aliquyam erat, sed diam voluptua. At vero eos et accusam et justo
-							duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-							takimata sanctus est Lorem ipsum dolor sit amet.</div></li>
+							</div></li>
 				</ul>
 			</div>
 		</div>
