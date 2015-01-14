@@ -244,7 +244,7 @@ ul li {
 }
 
 #Formular {
-	height: 500px;
+	height: 475px;
 	width: 450px;
 	margin: 50px 0 50px 40px;
 	padding: 15px;
@@ -269,6 +269,7 @@ input, textarea {
 	-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
 	-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
 	outline: 0;
+	height:30px;
 }
 
 textarea {
@@ -386,6 +387,18 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	transition: font 0.3s;
 }
 
-.Geschlecht {
-	
+
+.Geschlecht input {
+	width: 50px;
+	height:0;
 }
+
+
+
+
+
+
+
+
+
+

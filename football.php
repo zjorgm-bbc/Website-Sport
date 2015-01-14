@@ -36,8 +36,8 @@
 			</div>
 			<div id='cssmenu'>
 				<ul>
-					<li><a href='index.php'>Home</a></li>
-					<li class='active'><a href=''>Fussball</a>
+					<li><a href='#'>Home</a></li>
+					<li class='active'><a href='#'>Football</a>
 						<ul>
 							<li><a href='#'>Premiere League</a></li>
 							<ul>
@@ -49,7 +49,19 @@
 						<li><a href='#'>Resultate</a></li>
 						<li><a href='#'>Rangliste</a></li>
 					</ul>
-					</li>					
+					</li>
+					<li><a href='#'>Liga BBVA</a></li>
+					<ul>
+						<li><a href='#'>Resultate</a></li>
+						<li><a href='#'>Rangliste</a></li>
+					</ul>
+					</li>
+					<li><a href='#'>Europa Meisterschaft</a></li>
+					<ul>
+						<li><a href='#'>Resultate</a></li>
+						<li><a href='#'>Rangliste</a></li>
+					</ul>
+					</li>
 				</ul>
 				</li>
 				<li><a href='#'>Unihockey</a>
@@ -80,110 +92,18 @@
 				</ul>
 			</div>
 			<div id="login">
-				<p class="Anmelde_email">
-					<input type="email" size="45" name="email" id="name"
-						placeholder="E-mail Adresse" />
-				</p>
-				<p class="passwort_3">
-					<input type="password" name="passwort" id="name"
-						placeholder="*********" />
-				</p>
-				<p class="submit_1">
-						<input type="submit" value="Login" />
-					</p>
-				<div id="registrieren">
-					<a href='Formular.php'>Noch kein Konto? Jetzt Registrieren!</a>
-				</div>
+				<a href="#">Login</a>
 			</div>
 		</div>
-		<div id="news">
-			<div id="LatestNews">Latest News</div>
-			<ul>
-				<li><div class="Rahmen">
-						<div class="datum">5.1.2015</div>
-						<div class="titel">
-							<a href='#'>Aufbau der Webseite beginnt</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">23.2.2015</div>
-						<div class="titel">
-							<a href='#'>Webseite fertiggestellt</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">11.2.2015</div>
-						<div class="titel">
-							<a href='#'>NBA: Luzern wird Meister</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">15.2.2015</div>
-						<div class="titel">
-							<a href='#'>NLA:ZSC gewinnt 2:1</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">11.3.2015</div>
-						<div class="titel">
-							<a href='#'>Simon Amman st&uumlrtzt</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">31.3.2015</div>
-						<div class="titel">
-							<a href='#'>Shaqiri wechselt zu Inter</a>
-						</div>
-					</div></li>
-			</ul>
-		</div>
-		<div id="content">
-			<div id="Uberschrift">Login</div>
-			<div id="Formular">
-				<form class="form">
-
-					
-					<p class="Geschlecht">
-						<br> <input checked="checked" name="Anrede" type="radio"
-							value="Herr" /> Herr <input name="Anrede" type="radio"
-							value="Frau" /> Frau
-							<label
-							for="name">Anrede</label>
-					</p>
-					<p class="Vorname">
-						<br> <input type="text" name="Vorname" id="name" /> <label
-							for="name">Vorname</label>
-					</p>
-					<p class="name">
-						<input type="text" name="name" id="name" /> <label for="name">Name</label>
-					</p>
-					<p class="Geburtsdatum">
-						<input type="text" name="Geburtsdatum" id="name" /> <label
-							for="name">Geburtsdatum</label>
-					</p>
-
-					<p class="email">
-						<input type="text" name="email" id="email" /> <label for="email">E-mail</label>
-					</p>
-					<p class="email">
-						<input type="text" name="email_2" id="email" /> <label for="email">E-mail
-							best&auml;tigen</label>
-					</p>
-
-					<p class="Passwort">
-						<input type="text" name="Passwort" id="web" /> <label for="web">Passwort</label>
-					</p>
-
-					<p class="Passwort">
-						<input type="text" name="Passwort_2" id="web" /> <label for="web">Passwort
-							best&auml;tigen</label>
-					</p>
-					<p class="submit">
-						<input type="submit" value="Send" />
-					</p>
-				</form>
+		<a href="ChampionsLeague.php">
+			<div id="Logos">
+				<img class="bild" src="Logo_uefa_2012.jpg" alt="Champions League">
 			</div>
-		</div>
+		</a> <a href="#"><div id="Logos1">
+				<img class="bild" src="UK_Premier_League_logo.jpg" alt="Premier League">
+			</div></a>
+
+		<div id="EuropaMeisterschaft"></div>
 		<div id="footer">&copy by Miguel Jorge & Oliver Aschwanden</div>
 	</div>
 </body>
