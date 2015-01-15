@@ -26,7 +26,21 @@
 	position: absolute;
 	font-family: Montserrat, sans-serif;
 }
-
+#footer_2 {
+	background-color: #333333;
+	width: 99.2%;
+	height: 50px;
+	float: left;
+	font-family: Montserrat, sans-serif;
+	font-weight: 400;
+	color: #888;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 9px;
+	box-shadow: 5px 5px 5px #888888;
+	position: absolute;
+	font-family: Montserrat, sans-serif;
+}
 #LatestNews {
 	font-family: Montserrat, sans-serif;
 	font-weight: 400;

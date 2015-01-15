@@ -598,7 +598,7 @@
 			</div>
 			<div></div>
 
-			<div id="footer">&copy by Miguel Jorge & Oliver Aschwanden</div>
+			<div id="footer_2">&copy by Miguel Jorge & Oliver Aschwanden</div>
 		</div>
 
 </body>
