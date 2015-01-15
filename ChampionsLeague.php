@@ -101,7 +101,63 @@
 		</div>
 		<div id="news">
 			<div id="LatestNews">Rangliste</div>
-			<img class="rangliste" src="Champions-League-Tabelle.png" alt="Champions League Tabelle">
+			<table class="tg">
+  <tr>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+    <th class="tg-031e"></th>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+  <tr>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e"></td>
+  </tr>
+</table>
 		</div>
 		<div id="content">
 			<div id="Uberschrift">Top Stories</div>

@@ -246,9 +246,8 @@ ul li {
 #Formular {
 	height: 475px;
 	width: 450px;
-	margin: 50px 0 50px 40px;
+	margin: 85px auto 50px auto;
 	padding: 15px;
-	float: left;
 	border: 2px double;
 	color: #999999;
 	border-color: #EEE;
@@ -269,7 +268,7 @@ input, textarea {
 	-moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
 	-webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
 	outline: 0;
-	height:30px;
+	height: 30px;
 }
 
 textarea {
@@ -387,21 +386,38 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	transition: font 0.3s;
 }
 
-
 .Geschlecht input {
 	width: 50px;
-	height:0;
+	height: 0;
 }
+
 .rangliste {
-	width:100%;
-	height:52%;
+	width: 100%;
+	height: 52%;
 }
 
+.tg {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
 
+.tg td {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+}
 
-
-
-
-
-
-
+.tg th {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+}
