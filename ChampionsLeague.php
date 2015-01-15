@@ -48,7 +48,7 @@
 							<ul>
 								<li><a href='#'>Resultate</a></li>
 								<li><a href='#'>Rangliste</a></li>
-							</ul></li>					
+							</ul></li>
 					<li><a href='ChampionsLeague.php'>Champions League</a></li>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
@@ -101,102 +101,505 @@
 		</div>
 		<div id="news">
 			<div id="LatestNews">Rangliste</div>
-			<table class="tg">
-  <tr>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-    <th class="tg-031e"></th>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-  <tr>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-  </tr>
-</table>
 		</div>
 		<div id="content">
 			<div id="Uberschrift">Top Stories</div>
 			<div id="oli">
 				<br> <br> <br>
-				<ul>
-					<li><div class="text">Lorem ipsum dolor sit amet, consetetur
-							sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut laba.
-							At vero eos et accusam et justo duo dolores et ea rebum. Stet
-							clita kasd gubergren, no sea takimata sanctus est Lorem ipsum
-							dolor sit amet.</div></li>
-					<li><div class="text">Lorem ipsum dolor sit amet, consetetur
-							sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-							nsetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-							ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-							vero eos et accusam et justo duo dolores et ea rebum. Stet clita
-							kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-							amet.</div></li>
-					<li><div class="text">Lorem ipsum dolor sit amet, consetetur
-							sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-							consetetur sadipscing elitr, sed diam nonumy eirmod tempor
-							invidunt ut labore et dolore magna aliquyam erat, sed diam
-							voluptua. At vero eos et accusam et justo duo dolores et ea
-							rebum. Stet clita kasd gubergren, no sea takimata sanctus est
-							Lorem ipsum dolor sit amet.</div></li>
-					<li><div class="text">Lorem ipsum dolor sit amet, consetetur
-							sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
-							labore et dolore magna aliquyam erat, sed diam voluptua. At vero
-							eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-							gubergren, no gubergren, no sea takimata sanctus est Lorem ipsum
-							dolor sit amet.</div></li>
-
-
-				</ul>
+				<table class="tg">
+				<p>Gruppe A</p>
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
+				<table class="tg">
+					<tr>
+						<th class="vereine">Vereine</th>
+						<th class="tg">S</th>
+						<th class="tg">S</th>
+						<th class="tg">U</th>
+						<th class="tg">N</th>
+						<th class="tg">+</th>
+						<th class="tg">G</th>
+						<th class="tg">+/-</th>
+						<th class="tg">Pkt.</th>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Atletico.png"
+							alt="Atletico"> Club Atl&eacute;tico de Madrid</td>
+						<td class="tg">6</td>
+						<td class="tg">4</td>
+						<td class="tg">1</td>
+						<td class="tg">1</td>
+						<td class="tg">14</td>
+						<td class="tg">3</td>
+						<td class="tg">11</td>
+						<td class="tg">13</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Juventus.png"
+							alt="Juventus">Juventus</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">1</td>
+						<td class="tg">2</td>
+						<td class="tg">7</td>
+						<td class="tg">4</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="Olympiacos.png"
+							alt="Juventus">Olympiacos FC</td>
+						<td class="tg">6</td>
+						<td class="tg">3</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+					<tr>
+						<td class="vereine"><img class="teams" src="malmoe.png"
+							alt="Malmoe">Malm&ouml; FF</td>
+						<td class="tg">6</td>
+						<td class="tg">1</td>
+						<td class="tg">0</td>
+						<td class="tg">3</td>
+						<td class="tg">10</td>
+						<td class="tg">13</td>
+						<td class="tg">-3</td>
+						<td class="tg">9</td>
+					</tr>
+				</table>
 			</div>
-		</div>
-		<div></div>
+			<div></div>
 
-		<div id="footer">&copy by Miguel Jorge & Oliver Aschwanden</div>
-	</div>
+			<div id="footer">&copy by Miguel Jorge & Oliver Aschwanden</div>
+		</div>
+
 </body>
 </html>

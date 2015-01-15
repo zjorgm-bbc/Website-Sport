@@ -399,6 +399,7 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 .tg {
 	border-collapse: collapse;
 	border-spacing: 0;
+	margin:20px auto;
 }
 
 .tg td {
@@ -411,7 +412,7 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	word-break: normal;
 }
 
-.tg th {
+.tg th{
 	font-family: Arial, sans-serif;
 	font-size: 14px;
 	font-weight: normal;
@@ -420,4 +421,33 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	border-width: 1px;
 	overflow: hidden;
 	word-break: normal;
+	width:50px;
 }
+
+.vereine {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 250px;
+}
+
+#oli p {
+	margin:20px 0 20px 24%;
+	width: 100px;
+	font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
