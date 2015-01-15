@@ -45,7 +45,7 @@
 								<li><a href='#'>Rangliste</a></li>
 							</ul></li>
 						
-					<li><a href='#'>Champions League</a></li>
+					<li><a href='ChampionsLeague.php'>Champions League</a></li>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
 						<li><a href='#'>Rangliste</a></li>
@@ -114,7 +114,7 @@
 				<li><div class="Rahmen">
 						<div class="datum">11.2.2015</div>
 						<div class="titel">
-							<a href='#'>NBA:Luzern wird Meister</a>
+							<a href='#'>NBA: Luzern wird Meister</a>
 						</div>
 					</div></li>
 				<li><div class="Rahmen">

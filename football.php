@@ -36,32 +36,20 @@
 			</div>
 			<div id='cssmenu'>
 				<ul>
-					<li><a href='#'>Home</a></li>
-					<li class='active'><a href='#'>Football</a>
+					<li><a href='index.php'>Home</a></li>
+					<li class='active'><a href='football.php'>Football</a>
 						<ul>
 							<li><a href='#'>Premiere League</a></li>
 							<ul>
 								<li><a href='#'>Resultate</a></li>
 								<li><a href='#'>Rangliste</a></li>
 							</ul></li>
-					<li><a href='#'>Champions League</a></li>
+					<li><a href='ChampionsLeague.php'>Champions League</a></li>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
 						<li><a href='#'>Rangliste</a></li>
 					</ul>
-					</li>
-					<li><a href='#'>Liga BBVA</a></li>
-					<ul>
-						<li><a href='#'>Resultate</a></li>
-						<li><a href='#'>Rangliste</a></li>
-					</ul>
-					</li>
-					<li><a href='#'>Europa Meisterschaft</a></li>
-					<ul>
-						<li><a href='#'>Resultate</a></li>
-						<li><a href='#'>Rangliste</a></li>
-					</ul>
-					</li>
+					
 				</ul>
 				</li>
 				<li><a href='#'>Unihockey</a>
@@ -92,7 +80,20 @@
 				</ul>
 			</div>
 			<div id="login">
-				<a href="#">Login</a>
+				<p class="Anmelde_email">
+					<input type="email" size="45" name="email" id="name"
+						placeholder="E-mail Adresse" />
+				</p>
+				<p class="passwort_3">
+					<input type="password" name="passwort" id="name"
+						placeholder="*********" />
+				</p>
+				<p class="submit_1">
+					<input type="submit" value="Login" />
+				</p>
+				<div id="registrieren">
+					<a href='Formular.php'>Noch kein Konto? Jetzt Registrieren!</a>
+				</div>
 			</div>
 		</div>
 		<a href="ChampionsLeague.php">

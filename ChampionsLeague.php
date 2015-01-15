@@ -41,34 +41,20 @@
 			</div>
 			<div id='cssmenu'>
 				<ul>
-					<li><a href='#'>Home</a></li>
-					<li class='active'><a href='#'>Football</a>
+					<li><a href='index.php'>Home</a></li>
+					<li class='active'><a href='football.php'>Football</a>
 						<ul>
 							<li><a href='#'>Premiere League</a></li>
 							<ul>
 								<li><a href='#'>Resultate</a></li>
 								<li><a href='#'>Rangliste</a></li>
-							</ul></li>
-					<li><a href='#'>Champions League</a></li>
+							</ul></li>					
+					<li><a href='ChampionsLeague.php'>Champions League</a></li>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
 						<li><a href='#'>Rangliste</a></li>
 					</ul>
-					</li>
-					<li><a href='#'>Liga BBVA</a></li>
-					<ul>
-						<li><a href='#'>Resultate</a></li>
-						<li><a href='#'>Rangliste</a></li>
-					</ul>
-					</li>
-					<li><a href='#'>Europa Meisterschaft</a></li>
-					<ul>
-						<li><a href='#'>Resultate</a></li>
-						<li><a href='#'>Rangliste</a></li>
-					</ul>
-					</li>
 				</ul>
-				</li>
 				<li><a href='#'>Unihockey</a>
 					<ul>
 						<li><a href='#'>Resultate</a></li>
@@ -97,49 +83,25 @@
 				</ul>
 			</div>
 			<div id="login">
-				<a href="#">Login</a>
+				<p class="Anmelde_email">
+					<input type="email" size="45" name="email" id="name"
+						placeholder="E-mail Adresse" />
+				</p>
+				<p class="passwort_3">
+					<input type="password" name="passwort" id="name"
+						placeholder="*********" />
+				</p>
+				<p class="submit_1">
+					<input type="submit" value="Login" />
+				</p>
+				<div id="registrieren">
+					<a href='Formular.php'>Noch kein Konto? Jetzt Registrieren!</a>
+				</div>
 			</div>
 		</div>
 		<div id="news">
-			<div id="LatestNews">Latest News</div>
-			<ul>
-				<li><div class="Rahmen">
-						<div class="datum">5.1.2015</div>
-						<div class="titel">
-							<a href='#'>Aufbau der Webseite beginnt</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">23.2.2015</div>
-						<div class="titel">
-							<a href='#'>Webseite fertiggestellt</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">11.2.2015</div>
-						<div class="titel">
-							<a href='#'>NBA:Luzern wird Meister</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">15.2.2015</div>
-						<div class="titel">
-							<a href='#'>NLA:ZSC gewinnt 2:1</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">11.3.2015</div>
-						<div class="titel">
-							<a href='#'>Simon Amman st&uumlrtzt</a>
-						</div>
-					</div></li>
-				<li><div class="Rahmen">
-						<div class="datum">31.3.2015</div>
-						<div class="titel">
-							<a href='#'>Shaqiri wechselt zu Inter</a>
-						</div>
-					</div></li>
-			</ul>
+			<div id="LatestNews">Rangliste</div>
+			<img class="rangliste" src="Champions-League-Tabelle.png" alt="Champions League Tabelle">
 		</div>
 		<div id="content">
 			<div id="Uberschrift">Top Stories</div>

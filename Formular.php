@@ -37,7 +37,7 @@
 			<div id='cssmenu'>
 				<ul>
 					<li><a href='index.php'>Home</a></li>
-					<li class='active'><a href=''>Fussball</a>
+					<li class='active'><a href='football.php'>Fussball</a>
 						<ul>
 							<li><a href='#'>Premiere League</a></li>
 							<ul>
