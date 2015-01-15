@@ -30,7 +30,7 @@
 	background-color: #333333;
 	width: 99.2%;
 	height: 50px;
-	float: left;
+	margin-left:-483px;
 	font-family: Montserrat, sans-serif;
 	font-weight: 400;
 	color: #888;
@@ -338,10 +338,12 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	background: #333333;
 	border: 0;
 	position: absolute;
+	-moz-border-radius:3px 15px 5px 30px; 
 	font-size: 14px;
 	color: #FFF;
 	transition: 0.5s;
 	margin-top: -10px;
+	border-radius: 20px;
 	font-family: Montserrat, sans-serif;
 	font-size: 14px;
 }
@@ -350,6 +352,7 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	-webkit-transition: width 5s; /* For Safari 3.1 to 6.0 */
 	transition: width 5s;
 	color: #FFFFFF;
+	border-radius: 5px;
 	background-color: #2ea7fe;
 	font-size: 18px;
 	transition: font 0.3s;
@@ -414,49 +417,81 @@ input:hover, textarea:hover, input:focus, textarea:focus {
 	border-collapse: collapse;
 	border-spacing: 0;
 	margin:20px auto;
+	text-align:center;
 }
 
 .tg td {
-	font-family: Arial, sans-serif;
+	font-family: Montserrat, sans-serif;
 	font-size: 14px;
 	padding: 10px 5px;
-	border-style: solid;
-	border-width: 1px;
+	border-right:solid;
+	border-width: 2px;
+	border-color:#888;
 	overflow: hidden;
 	word-break: normal;
 }
 
 .tg th{
-	font-family: Arial, sans-serif;
+	font-family: Montserrat, sans-serif;
 	font-size: 14px;
+	background-color:#888;
 	font-weight: normal;
+	border-right:solid;
+	border-width: 2px;
+	border-color:#888;
 	padding: 10px 5px;
-	border-style: solid;
-	border-width: 1px;
+	border-style: none;
+	
 	overflow: hidden;
 	word-break: normal;
 	width:50px;
+	text-align:center ;
 }
 
 .vereine {
 	border-collapse: collapse;
 	border-spacing: 0;
 	width: 250px;
+	text-align:center;
 }
 
 #oli p {
 	margin:20px 0 20px 24%;
 	width: 100px;
+	font-family: Montserrat, sans-serif;
 	font-size:20px;
 }
 
+.vereine img{
+	float:left;
+}
 
+.vereine_2 img{
+	float:left;
+	background-color: #D5D5D5;
+}
+.vereine_2 {
+	background-color: #D5D5D5;
+}
+.tg_2 {
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin:20px auto;
+	text-align:center;
+	background-color:#D5D5D5;
+}
 
-
-
-
-
-
+.tg_2 td {
+	font-family: Montserrat, sans-serif; 
+	font-size: 14px;
+	padding: 10px 5px;
+	border-right:solid;
+	border-width: 2px;
+	border-color:#888;
+	overflow: hidden;
+	word-break: normal;
+	background-color:#f4f4f4;
+}
 
 
 
